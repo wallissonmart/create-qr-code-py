@@ -2,7 +2,7 @@ import qrcode
 import json
 
 objeto = {
-    'id_venda': 302,
+    'id_venda': 20,
     'valor_venda': 5.00,
 }
 
