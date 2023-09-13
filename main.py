@@ -3,11 +3,7 @@ import json
 
 objeto = {
     'id_venda': 50,
-<<<<<<<<< Temporary merge branch 1
     'valor_venda': 100.00,
-=========
-    'valor_venda': 30.00,
->>>>>>>>> Temporary merge branch 2
 }
 
 qr = qrcode.QRCode(
